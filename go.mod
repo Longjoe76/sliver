@@ -46,7 +46,7 @@ require (
 	golang.zx2c4.com/wireguard v0.0.0-20220316235147-5aff28b14c24
 	google.golang.org/genproto v0.0.0-20210722135532-667f2b7c528f // indirect
 	google.golang.org/grpc v1.42.0-dev.0.20211020220737-f00baa6c3c84
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/protobuf v1.33.0
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
 	gopkg.in/check.v1 v1.0.0-20200902074654-038fdea0a05b // indirect
 	gorm.io/driver/mysql v1.0.3
